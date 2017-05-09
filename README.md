@@ -1,3 +1,3 @@
-# MvvmAndroid
+# Mvvm Patter in Android
 
-Mvvm Patter in Android
+Pequeño ejemplo de como aplicar data binding en android.
